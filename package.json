@@ -29,6 +29,7 @@
     "json-beautify": "^1.1.1",
     "node-fetch": "^2.6.1",
     "open": "^8.2.1",
+    "typescript": "^4.3.5", 
     "ora": "^5.4.1"
   },
   "devDependencies": {
